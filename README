@@ -1,5 +1,5 @@
-*install:python install.py
-*usage example: 
+* install:python install.py
+* usage example: 
 	do files: python resize.py a.png b.png c.png
 	do files in current directory: python resize.py -d
 	do files in any directory: python resize.py -d inputdir
